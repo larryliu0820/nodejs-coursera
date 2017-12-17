@@ -1,0 +1,20 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "simple node examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Larry Liu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larryliu0820/node-js-coursera.git"
+  },
+  "bugs": {
+    "url": "https://github.com/larryliu0820/node-js-coursera/issues"
+  },
+  "homepage": "https://github.com/larryliu0820/node-js-coursera#readme"
+}
